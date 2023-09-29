@@ -553,8 +553,6 @@ footer
     margin-top: -23px;
 }
 .foottext2
-{
-    color: #6e6d7a;
-    text-decoration: none;
-    cursor: pointer;
-}
+{color: #6e6d7a;
+text-decoration: none;
+ cursor: pointer;}
