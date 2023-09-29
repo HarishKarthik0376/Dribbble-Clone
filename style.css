@@ -181,13 +181,13 @@ body{
 .slideshow
 {
     white-space: nowrap;
-   margin-left: -265px;
+   margin-left: -5605px;
 }
 .section
 {
     width: 100%;
     display: inline-block;
-    animation:slider linear 30s;
+    animation:slider linear 80s;
     animation-iteration-count: infinite;
     
 }
