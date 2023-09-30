@@ -684,7 +684,7 @@ footer
 .hero
 {
     max-width: 450px;
-    height: 760px;
+    height: 770px;
     background-color: #f8f7f4;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -776,7 +776,7 @@ footer
 
 .box
 {   position: absolute;
-    width: 450px;
+    width: 430px;
     height: 500px;
     background-color: white;
     top: 140%;
@@ -788,7 +788,7 @@ footer
     font-size: 3.5rem;
     font-weight: 400;
     top: 18%;
-    right: 6%;
+    right: 1%;
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #0d0c22;
     
@@ -851,8 +851,8 @@ footer
 {
     position: absolute;
     text-align: center;
-    width: 320px;
-    left: 11%;
+    width: 360px;
+    left: 6.5%;
     top: 267%;
     font-size: 1.2rem;
     color: #0d0c22;
