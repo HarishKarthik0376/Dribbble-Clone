@@ -574,7 +574,7 @@ footer
     display: none;
 }
 
-@media screen and (min-width:400px) and (max-width:500px) {
+@media screen and (min-width:411px) and (max-width:500px) {
 
    html,body{
         overflow-x: hidden;
