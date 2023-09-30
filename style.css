@@ -1235,14 +1235,14 @@ footer
     }
     .navbar
     {
-        width: 400px;
+        width: 360px;
         height: 60px;
     }
     .nav
     {
         display: flex;
         align-items: center;
-        width: 400px;
+        width: 360px;
         height: 60px;
         background-color: #f8f7f4;
     }
@@ -1455,7 +1455,7 @@ footer
 }
 .herotext2
 {   position: relative;
-    right: 1.9%;
+    right: 2.1%;
     padding-top: 10px;
     font-size: 1.15rem;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -1507,15 +1507,16 @@ footer
 
 .box
 {   position: absolute;
-    width: 382px;
+    width: 360px;
     height: 500px;
     background-color: white;
     top: 178%;
     left: 0%;
    
+   
 }
 .maintext
-{   width:360px;
+{   width:340px;
     position: absolute;
     font-size: 3.2rem;
     font-weight: 400;
@@ -1530,7 +1531,7 @@ footer
 {
     position: absolute;
     text-align: left;
-    width: 350px;
+    width: 340px;
     left: 6.5%;
     top: 56%;
     font-size: 1.24rem;
@@ -1550,7 +1551,7 @@ footer
     font-weight: 600;
     transition: 350ms;
     cursor: pointer;
-    margin-left: 21px;
+    margin-left: 18px;
 }
 .secondtext
 {
@@ -1562,7 +1563,7 @@ footer
     justify-content: center;
     position: absolute;
     left: 9%;
-    top: 275%;
+    top: 279.5%;
     font-weight: 300;
     font-size: 1.1rem;
     border-radius: 20px;
@@ -1573,7 +1574,7 @@ footer
     position: absolute;
     font-size: 2.6rem;
     font-weight: 400;
-    top: 289%;
+    top: 298%;
     left: .5%;
     text-align: center;
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1585,7 +1586,7 @@ footer
     text-align: center;
     width: 320px;
     left: 5%;
-    top: 324%;
+    top: 339%;
     font-size: 1.2rem;
     color: #0d0c22;
 }
@@ -1595,7 +1596,7 @@ footer
     position: absolute;
     font-size: 2rem;
     font-weight: 200;
-    top: 343%;
+    top: 360%;
     left: 5%;
     text-align: left;
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1608,14 +1609,14 @@ footer
     width: 340px;
    
     left: 5%;
-    top: 358%;
+    top: 374%;
     font-size: 1.1rem;
     color: black;
 }
 .buttons2
 {
     position: absolute;
-    top: 376%;
+    top: 394%;
     left: 3%;
     display: flex;
     gap: 10%;
@@ -1651,7 +1652,7 @@ footer
 }
 .image{
     position: absolute;
-    top: 387.5%;
+    top: 407%;
     left: 1.5%;
     width: 350px;
     height: 370px;
@@ -1672,7 +1673,7 @@ footer
     width: 340px;
     font-size: 2.2rem;
     position: absolute;
-    top: 439%;
+    top: 467%;
     left: 5%;
   
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1681,7 +1682,7 @@ footer
 
 .four{
     position: absolute;
-    top: 456%;
+    top: 487%;
     left: 5%;
     display: flex;
     flex-direction: column;
@@ -1709,7 +1710,7 @@ footer
 
 .foot1{
     position: absolute;
-    top: 514%;
+    top: 553%;
     background-color: #fff;
     width: 350px;
     overflow-x: scroll;
@@ -1742,9 +1743,9 @@ footer
 footer
 {   position: absolute;
     background-color: #fff;
-    width: 400px;
+    width: 360px;
     height: 280px;
-    top: 547%;
+    top: 590%;
    
 }
 .footlogo
@@ -1765,10 +1766,10 @@ footer
 }
 
 .options2
-{   width: 380px;
+{   width: 360px;
     height: 40px;
     position: absolute;
-    left: -4.5%;
+    left: -2%;
     top: -5%;
     align-items: center;
     display:flex;
@@ -1780,7 +1781,7 @@ footer
     width: 240px;
     height: 40px;
     position: absolute;
-    left: 18%;
+    left: 19%;
     top: 7%;
     align-items: center;
     display:flex;
@@ -1806,7 +1807,7 @@ footer
  .icons 
 {
     position:absolute;
-    left: 32.5%;
+    left: 34%;
     top: 24%;
     display: flex;
     align-items: center;
