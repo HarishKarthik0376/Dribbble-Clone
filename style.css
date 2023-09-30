@@ -582,14 +582,14 @@ footer
     }
     .navbar
     {
-        width: 420px;
+        width: 450px;
         height: 60px;
     }
     .nav
     {
         display: flex;
         align-items: center;
-        width: 420px;
+        width: 450px;
         height: 60px;
         background-color: #f8f7f4;
     }
@@ -683,7 +683,7 @@ footer
     }
 .hero
 {
-    max-width: 410px;
+    max-width: 450px;
     height: 750px;
     background-color: #f8f7f4;
     overflow-x: hidden;
