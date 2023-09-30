@@ -562,8 +562,14 @@ footer
     text-decoration: none;
     cursor: pointer;
 }
-.onlymobile
+.onlymob
 {
+    display: none;
+}
+.onlymob1{
+    display: none;
+}
+.onlymobile{
     display: none;
 }
 .foot1{
@@ -573,6 +579,11 @@ footer
 {
     display: none;
 }
+.optionsmobile
+    {
+        display:none;
+    }
+
 
 @media screen and (min-width:411px) and (max-width:500px) {
 
@@ -672,14 +683,95 @@ footer
     .onlymobile
     {
         position: absolute;
-        display: block;
         top: 3.4%;
-        margin-left: 20px;
+        margin-left: 30px;
+        display: block;
+       
 
     }
     .onlymob
     {
         font-size:1.5rem;
+        display: block;
+    }
+   
+    .optionsmobile
+    {
+        display:block;
+        width: 400px;
+        height: 270px;
+        background-color: #f8f7f4;
+        position: absolute;
+        top: 8%;
+        left: 2%;
+        z-index: 1;
+        display: none;
+    }
+    .options1
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+        margin-top: 10px;
+        
+    }
+    .navtext1
+    {
+        text-decoration: none;
+        color: black;
+        font-weight: 200;font-weight: 200;
+        transition: 350ms;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 40px;
+    }
+    .navtext1:nth-child(2)
+    {
+        animation: navtextslide .1s linear;
+    }
+    .navtext1:nth-child(3)
+    {
+        animation: navtextslide .2s linear;
+    }
+    .navtext1:nth-child(4)
+    {
+        animation: navtextslide .3s linear;
+    }
+    .navtext1:nth-child(5)
+    {
+        animation: navtextslide .4s linear;
+    }
+    .navtext1:nth-child(6)
+    {
+        animation: navtextslide .5s linear;
+    }
+    @keyframes navtextslide {
+        from
+        {
+            transform: translateX(-200px);
+        }
+        to
+        {
+            transform: translateX(0);
+        }
+    }
+    .navtext1:hover
+    {
+        color: gray;
+    }
+    .login1
+    {
+        width: 100px;
+        height: 40px;
+        border-radius: 20px;
+        border: none;
+        background-color: transparent;
+        color: black;
+        font-size: 1rem;
+      font-weight: 500;
+        cursor: pointer;
+        margin-left: 14px;
+        animation: navtextslide .6s linear;
     }
 .hero
 {
@@ -1241,6 +1333,84 @@ footer
     .onlymob
     {
         font-size:1.5rem;
+        
+    }
+    .optionsmobile
+    {
+        display:block;
+        width: 360px;
+        height: 270px;
+        background-color: #f8f7f4;
+        position: absolute;
+        top: 8.9%;
+        left: 2%;
+        z-index: 1;
+        display: none;
+    }
+    .options1
+    {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+        margin-top: 10px;
+    }
+    .navtext1
+    {
+        text-decoration: none;
+        color: black;
+        font-weight: 200;font-weight: 200;
+        transition: 350ms;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 40px;
+    }
+    .navtext1:hover
+    {
+        color: gray;
+    }
+    .navtext1:nth-child(2)
+    {
+        animation: navtextslide .1s linear;
+    }
+    .navtext1:nth-child(3)
+    {
+        animation: navtextslide .2s linear;
+    }
+    .navtext1:nth-child(4)
+    {
+        animation: navtextslide .3s linear;
+    }
+    .navtext1:nth-child(5)
+    {
+        animation: navtextslide .4s linear;
+    }
+    .navtext1:nth-child(6)
+    {
+        animation: navtextslide .5s linear;
+    }
+    @keyframes navtextslide {
+        from
+        {
+            transform: translateX(-200px);
+        }
+        to
+        {
+            transform: translateX(0);
+        }
+    }
+    .login1
+    {
+        width: 100px;
+        height: 40px;
+        border-radius: 20px;
+        border: none;
+        background-color: transparent;
+        color: black;
+        font-size: 1rem;
+      font-weight: 500;
+        cursor: pointer;
+        margin-left: 14px;
+        animation: navtextslide .6s linear;
     }
 .hero
 {
