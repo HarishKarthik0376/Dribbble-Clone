@@ -1766,10 +1766,10 @@ footer
 }
 
 .options2
-{   width: 360px;
+{   width: 340px;
     height: 40px;
     position: absolute;
-    left: -2%;
+    left: 1%;
     top: -5%;
     align-items: center;
     display:flex;
@@ -1841,9 +1841,9 @@ footer
 }
 .options3
 {
-    margin-left: 45.6px;
+    margin-left: 47.6px;
     display: flex;
-    column-gap: 8px;
+    column-gap: 5px;
     width: 270px;
     justify-content: space-evenly;
     align-items: center;
