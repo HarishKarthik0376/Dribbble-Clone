@@ -684,7 +684,7 @@ footer
 .hero
 {
     max-width: 450px;
-    height: 750px;
+    height: 760px;
     background-color: #f8f7f4;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -769,7 +769,7 @@ footer
 }
 .trust
 {
-    padding-top: 110px;
+    padding-top: 100px;
     display: flex;
     justify-content: center;
 }
@@ -883,7 +883,7 @@ footer
 {
     position: absolute;
     top: 304%;
-    left: 8%;
+    left: 10%;
     display: flex;
     gap: 10%;
 }
@@ -919,7 +919,7 @@ footer
 .image{
     position: absolute;
     top: 312%;
-    left: 4%;
+    left: 5%;
     width: 400px;
     height: 410px;
 }
@@ -940,7 +940,7 @@ footer
     font-size: 2.2rem;
     position: absolute;
     top: 364%;
-    left: 3.5%;
+    left: 5%;
   
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
    
@@ -949,7 +949,7 @@ footer
 .four{
     position: absolute;
     top: 378%;
-    left: 2.4%;
+    left: 5%;
     display: flex;
     flex-direction: column;
     gap: 1%;
@@ -1009,7 +1009,7 @@ footer
 footer
 {   position: absolute;
     background-color: #fff;
-    width: 100%;
+    width: 420px;
     height: 280px;
     top: 461%;
    
@@ -1032,10 +1032,10 @@ footer
 }
 
 .options2
-{   width: 420px;
+{   width: 440px;
     height: 40px;
     position: absolute;
-    left: -3%;
+    left: -6%;
     top: -5%;
     align-items: center;
     display:flex;
@@ -1057,6 +1057,7 @@ footer
 {
     text-decoration: none;
     color: black;
+    font-weight: 500;
     width: 82px;
     font-size: .89rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -1091,7 +1092,7 @@ footer
     justify-content: space-evenly;
     align-items: center;
     margin-top:150px ;
-    margin-left: 3px;
+    margin-left: 10px;
 }
 .trade
 {
@@ -1106,7 +1107,7 @@ footer
 }
 .options3
 {
-    margin-left: 53px;
+    margin-left: 59px;
     display: flex;
     column-gap: 8px;
     width: 300px;
