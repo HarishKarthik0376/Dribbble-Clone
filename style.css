@@ -1769,7 +1769,7 @@ footer
 {   width: 340px;
     height: 40px;
     position: absolute;
-    left: 1%;
+    left: -1%;
     top: -5%;
     align-items: center;
     display:flex;
@@ -1781,7 +1781,7 @@ footer
     width: 240px;
     height: 40px;
     position: absolute;
-    left: 19%;
+    left: 17%;
     top: 7%;
     align-items: center;
     display:flex;
