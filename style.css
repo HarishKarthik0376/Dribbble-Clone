@@ -776,7 +776,7 @@ footer
 
 .box
 {   position: absolute;
-    width: 400px;
+    width: 450px;
     height: 500px;
     background-color: white;
     top: 140%;
@@ -788,7 +788,7 @@ footer
     font-size: 3.5rem;
     font-weight: 400;
     top: 18%;
-    right: -6%;
+    right: 6%;
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #0d0c22;
     
@@ -853,7 +853,7 @@ footer
     text-align: center;
     width: 320px;
     left: 11%;
-    top: 264%;
+    top: 267%;
     font-size: 1.2rem;
     color: #0d0c22;
 }
@@ -863,7 +863,7 @@ footer
     position: absolute;
     font-size: 2rem;
     font-weight: 200;
-    top: 281%;
+    top: 284.5%;
     left: 6%;
     text-align: left;
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -875,14 +875,14 @@ footer
     text-align: left;
     width: 384px;
     left: 6%;
-    top: 292%;
+    top: 297%;
     font-size: 1.09rem;
     color: black;
 }
 .buttons2
 {
     position: absolute;
-    top: 305%;
+    top: 309%;
     left: 10%;
     display: flex;
     gap: 10%;
@@ -918,7 +918,7 @@ footer
 }
 .image{
     position: absolute;
-    top: 314%;
+    top: 319%;
     left: 5%;
     width: 400px;
     height: 410px;
@@ -939,7 +939,7 @@ footer
     width: 400px;
     font-size: 2.2rem;
     position: absolute;
-    top: 365%;
+    top: 367%;
     left: 5%;
   
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -948,7 +948,7 @@ footer
 
 .four{
     position: absolute;
-    top: 380%;
+    top: 382%;
     left: 5%;
     display: flex;
     flex-direction: column;
