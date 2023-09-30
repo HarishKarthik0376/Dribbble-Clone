@@ -861,7 +861,7 @@ footer
 }
 .trust
 {
-    padding-top: 90px;
+    padding-top: 70px;
     display: flex;
     justify-content: center;
 }
@@ -879,7 +879,7 @@ footer
     position: absolute;
     font-size: 3.5rem;
     font-weight: 400;
-    top: 18%;
+    top: 20%;
     right: 1%;
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #0d0c22;
@@ -1031,7 +1031,7 @@ footer
     width: 400px;
     font-size: 2.2rem;
     position: absolute;
-    top: 367%;
+    top: 369%;
     left: 5%;
   
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1040,7 +1040,7 @@ footer
 
 .four{
     position: absolute;
-    top: 382%;
+    top: 384%;
     left: 5%;
     display: flex;
     flex-direction: column;
@@ -1068,7 +1068,7 @@ footer
 
 .foot1{
     position: absolute;
-    top: 432%;
+    top: 435%;
     background-color: #fff;
     width: 410px;
     overflow-x: scroll;
@@ -1103,7 +1103,7 @@ footer
     background-color: #fff;
     width: 420px;
     height: 280px;
-    top: 461%;
+    top: 464%;
    
 }
 .footlogo
