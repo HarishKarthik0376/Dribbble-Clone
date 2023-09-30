@@ -1235,14 +1235,14 @@ footer
     }
     .navbar
     {
-        width: 360px;
+        width: 400px;
         height: 60px;
     }
     .nav
     {
         display: flex;
         align-items: center;
-        width: 360px;
+        width: 400px;
         height: 60px;
         background-color: #f8f7f4;
     }
@@ -1495,7 +1495,7 @@ footer
 }
 .trustmobile
 {
-    width: 300px;
+    width: 290px;
     display: block;
 }
 .trust
