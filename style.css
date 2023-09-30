@@ -1500,7 +1500,7 @@ footer
 }
 .trust
 {
-    padding-top: 50px;
+    padding-top: 30px;
     display: flex;
     justify-content: center;
 }
@@ -1858,6 +1858,7 @@ footer
     color: #6e6d7a;
     text-decoration: none;
     cursor: pointer;
+    font-size: .84rem;
 }
 .hey1
 {
