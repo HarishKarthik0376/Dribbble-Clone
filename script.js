@@ -36,3 +36,19 @@ const hidelements3 = document.querySelectorAll(".slideimages");
 hidelements3.forEach((el)=> observer2.observe(el));
 const hidelements4 = document.querySelectorAll(".justtext");
 hidelements4.forEach((el)=> observer2.observe(el));
+
+
+
+document.getElementById("onlymob").addEventListener("click",function(){
+    document.getElementById("onlymob").style.display = "none";
+    document.getElementById("onlymob1").style.display = "block";
+    document.getElementById("optionsmobile").style.display = "block";
+
+})
+
+document.getElementById("onlymob1").addEventListener("click",function(){
+    document.getElementById("onlymob1").style.display = "none";
+    document.getElementById("onlymob").style.display = "block";
+    document.getElementById("optionsmobile").style.display = "none";
+
+})
