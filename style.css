@@ -615,7 +615,7 @@ footer
     .sun
     {
         position: absolute;
-        left: 67%;
+        left: 60%;
         font-size: 1.6rem;
         cursor: pointer;
     
@@ -1274,7 +1274,7 @@ footer
     .sun
     {
         position: absolute;
-        left: 62.5%;
+        left: 59%;
        top: 3.7%;
         font-size: 1.6rem;
         cursor: pointer;
