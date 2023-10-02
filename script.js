@@ -52,3 +52,7 @@ document.getElementById("onlymob1").addEventListener("click",function(){
     document.getElementById("optionsmobile").style.display = "none";
 
 })
+let change = document.body;
+document.getElementById("sun").addEventListener("click",function(){
+    change.classList.toggle("darkmode")
+})
